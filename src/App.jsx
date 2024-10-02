@@ -1,5 +1,5 @@
 import React from 'react'
-import Quiz from './Components/Quiz/Quiz.jsx';
+import Quiz from './components/Quiz/Quiz';
 
 const App = () => {
   return (
